@@ -1,0 +1,8 @@
+add_executable(01_hola 01_hola.cpp)
+add_executable(02_cuadrado 02_cuadrado.cpp)
+add_executable(04_if_simple 04_control_alternativa_simple.cpp)
+add_executable(05_control_ciclo 05_control_ciclo.cpp)
+add_executable(06_arreglo 06_arreglo.cpp)
+add_executable(07_recursividad 07_recursividad.cpp)
+add_executable(max_pooling  max_pooling.cpp)
+add_executable(volumen volumen.cpp)
